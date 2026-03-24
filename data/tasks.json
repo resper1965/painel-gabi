@@ -210,13 +210,15 @@
     },
     {
       "id": "bekaa_11",
-      "title": "Proposta site target",
+      "title": "Proposta site Target",
       "description": "",
       "status": "backlog",
       "project": "bekaa",
       "priority": "medium",
       "subtasks": [],
-      "tags": [],
+      "tags": [
+        "bekaa"
+      ],
       "comments": [],
       "createdAt": "2026-03-23T23:25:00Z"
     },
@@ -349,5 +351,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-24T12:36:44.472Z"
+  "lastUpdated": "2026-03-24T12:36:56.322Z"
 }
