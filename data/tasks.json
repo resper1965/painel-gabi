@@ -5,7 +5,7 @@
       "title": "Cronograma Locação Apto 71 (Carla e Luciano)",
       "description": "Acompanhar e cobrar as datas do cronograma de locação do apartamento 71. O contrato será assinado pela Carla (locatária) e o Luciano (locador).",
       "status": "backlog",
-      "project": "default",
+      "project": "pessoal",
       "tags": [
         "locação",
         "financeiro",
@@ -334,16 +334,34 @@
   ],
   "projects": [
     {
-      "id": "guides",
-      "name": "Guides",
-      "color": "#10b981",
-      "icon": "📚"
+      "id": "ness",
+      "name": "NESS",
+      "color": "#3b82f6",
+      "icon": "🏢"
     },
     {
-      "id": "default",
-      "name": "My Project",
-      "color": "#3b82f6",
-      "icon": "📁"
+      "id": "bekaa",
+      "name": "Bekaa",
+      "color": "#8b5cf6",
+      "icon": "💼"
+    },
+    {
+      "id": "ionic",
+      "name": "Ionic Health",
+      "color": "#10b981",
+      "icon": "🏥"
+    },
+    {
+      "id": "pessoal",
+      "name": "Pessoal & Imóveis",
+      "color": "#f59e0b",
+      "icon": "🏠"
+    },
+    {
+      "id": "guides",
+      "name": "Guias (Sistema)",
+      "color": "#6b7280",
+      "icon": "📚"
     }
   ],
   "activities": [
