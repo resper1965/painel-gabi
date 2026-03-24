@@ -1,6 +1,30 @@
 {
   "tasks": [
     {
+      "id": "ionic_1",
+      "title": "Testar aegis",
+      "description": "",
+      "status": "backlog",
+      "project": "ionic",
+      "priority": "medium",
+      "subtasks": [],
+      "tags": [],
+      "comments": [],
+      "createdAt": "2026-03-24T01:16:00Z"
+    },
+    {
+      "id": "ionic_2",
+      "title": "Acompanhar auditoria iso27k",
+      "description": "",
+      "status": "backlog",
+      "project": "ionic",
+      "priority": "high",
+      "subtasks": [],
+      "tags": [],
+      "comments": [],
+      "createdAt": "2026-03-24T01:16:00Z"
+    },
+    {
       "id": "ness_1",
       "title": "Terminar n360",
       "description": "",
