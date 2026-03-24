@@ -196,13 +196,15 @@
     },
     {
       "id": "bekaa_10",
-      "title": "Proposta site cavando",
+      "title": "Proposta site CAVAN",
       "description": "",
       "status": "backlog",
       "project": "bekaa",
       "priority": "medium",
       "subtasks": [],
-      "tags": [],
+      "tags": [
+        "bekaa"
+      ],
       "comments": [],
       "createdAt": "2026-03-23T23:25:00Z"
     },
@@ -347,5 +349,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-24T12:36:07.791Z"
+  "lastUpdated": "2026-03-24T12:36:44.472Z"
 }
