@@ -110,13 +110,15 @@
     },
     {
       "id": "bekaa_3",
-      "title": "Marcar Bruno bocci",
+      "title": "Marcar Bruno Bocci",
       "description": "",
       "status": "backlog",
       "project": "bekaa",
       "priority": "medium",
       "subtasks": [],
-      "tags": [],
+      "tags": [
+        "bekaa"
+      ],
       "comments": [],
       "createdAt": "2026-03-23T23:25:00Z"
     },
@@ -345,5 +347,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-24T12:32:08.749Z"
+  "lastUpdated": "2026-03-24T12:36:07.791Z"
 }
